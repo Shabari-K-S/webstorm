@@ -14,8 +14,11 @@ WebStorm is a lightweight Python web framework. It provides a simple and intuiti
 You can install WebStorm using pip:
 
 ```bash
-pip install webstorm
+git clone https://github.com/Shabari-K-S/webstorm.git
+cd webstrom
 ```
+
+create project inside this folder
 
 ## Quick Start
 
